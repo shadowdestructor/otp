@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "961488383348",
+    "project_id": "teknopark-2c3fe",
+    "storage_bucket": "teknopark-2c3fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961488383348:android:35f0f4dd1081b2c3699021",
+        "android_client_info": {
+          "package_name": "com.example.otp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961488383348-ulm4n5fhcl02peb4m1ora32lfse9ka9k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.otp",
+            "certificate_hash": "2aec6efa6489dbda2b5f2af695ed9bd4e7b9264c"
+          }
+        },
+        {
+          "client_id": "961488383348-hd2pvsjrsaru7ae9rj9rb34e447r8u4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdzfnDIYX_F_9XKUexbOcoQ6QbJkOfBh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961488383348-hd2pvsjrsaru7ae9rj9rb34e447r8u4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
